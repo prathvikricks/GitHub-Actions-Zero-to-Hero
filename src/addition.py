@@ -9,4 +9,5 @@ def test_add():
     assert add(1, -1) == 0
     assert add(12, -2) == 10
     assert add(11, -2) == 9
-    assert add(10, -2) == 8 #added this new line
+    assert add(10, -2) == 8 #added this new li
+    print("hello i've added this line to check if it wroks automatically")
